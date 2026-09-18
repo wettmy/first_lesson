@@ -73,7 +73,7 @@ namespace first_lesson
             _brand = "unknown";
             _model = "unknown";
             _speed = 0;
-            _year = 0;
+            _year = 0; 
         }
 
         public Car(string brand, string model, int speed, int year)
